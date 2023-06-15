@@ -1,11 +1,9 @@
-# fresh project
+# Enripen
+A crowdsourced index to help against link rot. Crowd needed.
 
-### Usage
+[Demo](https://enripen.deno.dev/)
 
-Start the project:
+Uses the Fresh framework, with Flowbite components, and Hono (embedded inside a Fresh route) for the API.
 
-```
-deno task start
-```
 
-This will watch the project directory and restart as necessary.
+GPLv3 License, all open source libraries used have their own licenses.
