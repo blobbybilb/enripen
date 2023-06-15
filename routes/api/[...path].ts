@@ -50,11 +50,11 @@ app.get("/api/test", (c) => {
   return c.text("testing")
 })
 
-// app.get("/docs", serveStatic({ path: "./docs.html" }))
+app.get("/api/docs", serveStatic({ path: "./docs.html" }))
 
 // app.get("enripen.deno.dev/*", (c) => c.text(c.req.url))
 // app.get("*", (c) => c.text(c.req.url))
 
-// genDocs()
+genDocs()
 
 export const handler = app.fetch

@@ -27,7 +27,7 @@ function saveInput() {
 export default () => {
   return (
     <>
-      <h1 class="text-5xl text-center font-extrabold dark:text-white mt-5">
+      <h1 class="text-4xl text-center font-extrabold dark:text-white mt-5">
         Save - Enripen
       </h1>
       <p class="text-center text-2xl mt-5">Save an entry!</p>
