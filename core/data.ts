@@ -167,10 +167,10 @@ await saveLink("example.com/path", "example5.com", "34987")
 
 console.log(await find("example.com/path/asdjhkf"))
 
-const iter = kv.list({ prefix: ["links"] })
-const users = []
-for await (const res of iter) users.push(res)
+// const iter = kv.list({ prefix: ["links"] })
+// const users = []
+// for await (const res of iter) users.push(res)
 
-for (const user of users) {
-  await kv.delete(user.key)
-}
+// for (const user of users) {
+//   await kv.delete(user.key)
+// }
