@@ -55,6 +55,4 @@ app.get("/api/docs", serveStatic({ path: "./docs.html" }))
 // app.get("enripen.deno.dev/*", (c) => c.text(c.req.url))
 // app.get("*", (c) => c.text(c.req.url))
 
-genDocs()
-
 export const handler = app.fetch
