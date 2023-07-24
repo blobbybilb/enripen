@@ -22,7 +22,3 @@ There will be a browser extension that uses the API to automatically suggest red
 Uses the Fresh framework, with Flowbite components, and Hono (embedded inside a Fresh route) for the API.
 
 GPLv3 License, all open source libraries used have their own licenses.
-
-The Demo UI is pretty basic because I was going to make a browser extension that uses the API but ran out of time 😅. I'll make the browser extension at some point...
-
-Not sure what "All code must be created during the event" means exactly, but I did use some open source libraries (fresh, flowbite, and hono). If that disqualifies it then I have no problem :)
