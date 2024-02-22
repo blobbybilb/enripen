@@ -1,5 +1,7 @@
 temporarily archived, I think LLMs with large context windows might make something like this much more effective so I'm waiting until the trajectory of LLM context window increase kind of stabilizes (or when it's large enough for this kind of thing) (I wrote this note just a few days after the Gemini 1.5 Pro announcement)
 
+also this kind of approach is honestly almost certainly unfeasible (at least for me right now, as it needs a large-ish number of users to start to be useful (although simply integrating things like the Wayback Machine in a nice UI could help with that))
+
 ---
 
 # Enripen
