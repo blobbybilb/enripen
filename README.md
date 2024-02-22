@@ -1,3 +1,7 @@
+temporarily archived, I think LLMs with large context windows might make something like this much more effective so I'm waiting until the trajectory of LLM context window increase kind of stabilizes (or when it's large enough for this kind of thing) (I wrote this note just a few days after the Gemini 1.5 Pro announcement)
+
+---
+
 # Enripen
 A crowdsourced index to help against link rot. Crowd needed.
 
